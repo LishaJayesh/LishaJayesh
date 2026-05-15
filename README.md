@@ -76,7 +76,7 @@ A conversational news assistant that routes queries intelligently, filters misin
 
 End-to-end ML project: EDA, feature engineering, statistical testing, and model evaluation — achieving **95% prediction accuracy**.
 
-[![View Project](https://img.shields.io/badge/View%20Project-Repo-1F3864?style=flat-square&logo=github)](https://github.com/LishaJayesh/flight-satisfaction)
+[![View Project](https://img.shields.io/badge/View%20Project-Repo-1F3864?style=flat-square&logo=github)](https://github.com/LishaJayesh/Machine-Learning-Projects)
 
 ---
 
