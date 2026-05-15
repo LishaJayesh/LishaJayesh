@@ -85,7 +85,7 @@ End-to-end ML project: EDA, feature engineering, statistical testing, and model 
 
 Analyzed **500K+ records from 70K+ users**, resolved 8 data quality challenges, and delivered a BI dashboard with actionable demographic insights for a telecom client.
 
-[![View Project](https://img.shields.io/badge/View%20Project-Repo-1F3864?style=flat-square&logo=github)](https://github.com/LishaJayesh/telecom-dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-Repo-1F3864?style=flat-square&logo=github)](https://github.com/LishaJayesh/Capstone-Projects)
 
 ---
 
