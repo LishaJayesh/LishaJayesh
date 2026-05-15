@@ -125,8 +125,8 @@ Analyzed **500K+ records from 70K+ users**, resolved 8 data quality challenges, 
 |---|---|---|
 | Applied Generative AI Specialization | Purdue University / Simplilearn | 2026 |
 | AGS Capstone Project — Certificate of Achievement | Simplilearn | 2026 |
+| IBM Data Science Professional Certificate | IBM / Coursera | 2024 |
 | Global Certificate in Data Science | Accredian | 2021 |
-| IBM Data Science Professional Certificate | IBM / Coursera | In Progress |
 
 ---
 
